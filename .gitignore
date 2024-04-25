@@ -1,0 +1,11 @@
+# dependencies directory
+
+# Node
+node_modules
+.env
+package-lock.json
+filelog-error.log
+filelog-info.log
+todo.txt
+
+
